@@ -27,6 +27,7 @@ public class Utils {
 //                for (String permission : deniedPermission) {
 //                    Toast.makeText(context,permission + "权限被拒绝了",Toast.LENGTH_SHORT).show();
 //                }
+
 //            }
 //        });
 //    }
